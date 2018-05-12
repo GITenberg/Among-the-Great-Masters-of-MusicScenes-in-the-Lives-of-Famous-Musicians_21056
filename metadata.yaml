@@ -1,0 +1,29 @@
+_repo: Among-the-Great-Masters-of-MusicScenes-in-the-Lives-of-Famous-Musicians_21056
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rowlands, Walter
+    birthdate: 1855
+    gutenberg_agent_id: '9698'
+    url: http://www.gutenberg.org/2009/agents/9698
+description: ''
+gutenberg_issued: '2007-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Musicians -- Biography'
+- !lcc 'ML'
+- !lcsh 'Musicians -- Portraits'
+- !lcsh 'Music in art'
+title: 'Among the Great Masters of Music
+
+  Scenes in the Lives of Famous Musicians'
+url: http://www.gutenberg.org/ebooks/21056
